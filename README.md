@@ -1,1 +1,2 @@
 # PASSWORD-STRENGH-INDICATOR
+This is a simple **Password Strength Indicator** built using HTML, CSS, and JavaScript. As you type in the password field, it dynamically evaluates the strength based on password length and gives visual feedback using color-coded messages: red for weak, yellow for medium, and green for strong. The design is clean, responsive, and user-friendly, making it a great addition to any login or signup form.
